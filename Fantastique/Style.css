@@ -1,0 +1,32 @@
+body {
+	font-size: 16px;
+	color: #4BB5C1;
+	background-color: blue;
+	background-image: url("Image/Image_titre.jpg");
+}
+h1{
+	font-size: 30px;	
+	font-style: italic;
+	text-align: center;
+	color: #EFF5F4;
+}
+h2{font-size: 25px;
+	text-decoration: underline;
+	color: #3428BF;}
+h3{font-size: 20px;
+	display: inline-block;
+	color: white;
+}
+		.div-H3{width: 1000px;
+		word-spacing: 300px;
+		border-style: solid; 
+		border-color: red;}
+
+			.P2{border-style: solid;
+				width: 300px;
+				color: #FF4500;
+				border-color: #ADFF2F;  }
+a{color: blue
+	font-weight: bolder;}
+
+p{color: #ADFF2F;}
